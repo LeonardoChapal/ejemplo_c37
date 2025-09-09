@@ -1,2 +1,2 @@
 Ejemplo 2
-Hola Usuario de GIT
+Hola Usuario de GIT, bienvenido
